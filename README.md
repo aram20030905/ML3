@@ -1,3 +1,7 @@
+dataset-link - https://www.kaggle.com/datasets/jehanbhathena/weather-dataset?resource=download
+
+
+
 # Image Classification with ResNet18 using PyTorch
 
 This project demonstrates an end-to-end image classification pipeline using a pre-trained ResNet18 model in PyTorch. The training is conducted in Google Colab using a dataset extracted from a ZIP file stored on Google Drive.
